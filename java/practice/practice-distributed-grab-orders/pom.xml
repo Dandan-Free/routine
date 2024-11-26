@@ -29,7 +29,7 @@
         <guava.version>29.0-jre</guava.version>
         <commons.collections4.version>4.4</commons.collections4.version>
         <commons.beanutils.version>1.9.4</commons.beanutils.version>
-        <common.io.version>2.2</common.io.version>
+        <common.io.version>2.7</common.io.version>
 
         <mysql.connector.java.version>8.0.21</mysql.connector.java.version>
         <hikaricp.version>2.7.9</hikaricp.version>
